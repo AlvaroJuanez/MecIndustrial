@@ -1,6 +1,5 @@
-pueba conexion thinkap x230
-edicion p52
-usuario p52
-
-prueba segunda laptop x230
-edicion thinkpad p52
+2025-09-17 12:58
+# Prototipo Máquina de Corte Automatizada con Control Remoto
+## Agradecimiento
+## Dedicatoria
+## Introducción
