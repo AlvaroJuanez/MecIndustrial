@@ -1,0 +1,4 @@
+2025-09-18 18:59
+# ***CARRERA TECNICA MEC INDUSTRIAL GRADO SUPERIOR BOLIVIA***  
+
+***Inst Tecnologico Cristo Rey San Agustin***
