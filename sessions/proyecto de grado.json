@@ -1,7 +1,7 @@
 {
     "child": {
         "child1": {
-            "directory": "\/home\/Juanez\/MecIndustrial\/proyecto_de_grado",
+            "directory": "\/home\/Juanez\/MecIndustrial\/proyecto_de_grado\/docs",
             "height": 1043,
             "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
             "readOnly": false,
@@ -12,28 +12,44 @@
         },
         "child2": {
             "child1": {
-                "directory": "\/home\/Juanez\/MecIndustrial\/proyecto_de_grado",
-                "height": 1043,
+                "directory": "\/home\/Juanez\/MecIndustrial\/proyecto_de_grado\/docs",
+                "height": 248,
                 "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
                 "readOnly": false,
                 "synchronizedInput": true,
                 "type": "Terminal",
                 "uuid": "b11e89fc-e297-4e87-9d1e-ec356e84c29c",
-                "width": 683
+                "width": 1237
             },
             "child2": {
-                "directory": "\/home\/Juanez\/MecIndustrial\/proyecto_de_grado",
-                "height": 1043,
-                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
-                "readOnly": false,
-                "synchronizedInput": true,
-                "type": "Terminal",
-                "uuid": "e8fae4bf-8232-4c29-bbdc-676a034f8933",
-                "width": 549
+                "child1": {
+                    "directory": "\/home\/Juanez\/MecIndustrial\/proyecto_de_grado\/docs",
+                    "height": 790,
+                    "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                    "readOnly": false,
+                    "synchronizedInput": true,
+                    "type": "Terminal",
+                    "uuid": "2d3c1730-fd9b-4e1f-82dc-1a0fe43b1c1c",
+                    "width": 694
+                },
+                "child2": {
+                    "directory": "\/home\/Juanez\/MecIndustrial\/proyecto_de_grado\/docs",
+                    "height": 790,
+                    "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                    "readOnly": false,
+                    "synchronizedInput": true,
+                    "type": "Terminal",
+                    "uuid": "ff175889-29d9-4e11-a494-58ad2609d6f8",
+                    "width": 538
+                },
+                "orientation": 0,
+                "position": 36,
+                "ratio": 0.561034761519806024,
+                "type": "Paned"
             },
-            "orientation": 0,
-            "position": 35,
-            "ratio": 0.552142279708973338,
+            "orientation": 1,
+            "position": 23,
+            "ratio": 0.237775647171620336,
             "type": "Paned"
         },
         "orientation": 0,
