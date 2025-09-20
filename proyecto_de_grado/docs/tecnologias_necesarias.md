@@ -18,6 +18,8 @@
 ## ELECTRICIDAD
 ## ELECTRONICA
 ## MECANICA
+- [Estructura](#Estructura)
+    
 
 ## FASES DE PROYECTO
 
@@ -27,3 +29,4 @@
 - [](#)
 - [](#)
 
+<!--A partir de este punto es el contenido desarrolado-->
