@@ -1,0 +1,51 @@
+{
+    "child": {
+        "child1": {
+            "directory": "\/home\/Juanez\/MecIndustrial\/IND-50-T\/Procesos_de_manofactura_matriceria",
+            "height": 1043,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "a8d5b483-ee7c-453b-99c0-6efb257bfa15",
+            "width": 688
+        },
+        "child2": {
+            "child1": {
+                "directory": "\/home\/Juanez\/MecIndustrial\/IND-50-T\/Procesos_de_manofactura_matriceria",
+                "height": 647,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "8402680b-e76b-4d9b-ac78-99c2d2f9cb9e",
+                "width": 1227
+            },
+            "child2": {
+                "directory": "\/home\/Juanez\/MecIndustrial\/IND-50-T\/Procesos_de_manofactura_matriceria",
+                "height": 391,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "0cdb5fdf-5561-4349-9c6d-ecb51cdec309",
+                "width": 1227
+            },
+            "orientation": 1,
+            "position": 62,
+            "ratio": 0.620325982742090165,
+            "type": "Paned"
+        },
+        "orientation": 0,
+        "position": 35,
+        "ratio": 0.358333333333333337,
+        "type": "Paned"
+    },
+    "height": 1043,
+    "name": "MecIndustrial",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "19da589c-707d-4210-a511-e8f540161346",
+    "version": "1.0",
+    "width": 1920
+}
