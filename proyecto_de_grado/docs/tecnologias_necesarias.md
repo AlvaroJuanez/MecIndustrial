@@ -40,3 +40,14 @@ patente, hare ingenieria inversa mediante videos, imagenes, generar informes
 para su correcta investigación, ojo la maquina no sera una copia exacta.
 
 pero usaremos los datos necesario para dar forma al proyecto de grado.
+
+# ELECTRONICA
+
+
+se hara uso de los motores paso a paso nema una vez tengamos desarrolado los 
+calculos de potencia en funcion al peso que soporte
+
+para la parte que maneje la maquina se usara cnc Grbl  como firware de comunica- 
+ción entre los motores, drivers y la parte electronica.
+
+
