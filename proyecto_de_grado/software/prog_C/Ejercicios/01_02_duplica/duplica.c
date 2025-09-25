@@ -15,8 +15,5 @@ int main(){         //Función principal
     //Imprime el resultado por pantalla
     printf("el numero es: %d\n", numDuplicado);
 
-
-
-
     return 0;         //termina el programa
 }
