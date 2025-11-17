@@ -9,6 +9,6 @@ def duplica():
     numDuplicado = numero * 2
 
     #Imprime el resultado por pantalla
-    print("El numero duplicado es: ", numDuplicado)
+    print("El numero duplicado es: " + numDuplicado)
 
 duplica()
